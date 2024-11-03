@@ -245,9 +245,6 @@ body{
         padding-bottom: 10px;
         border-bottom: 1px solid #3E4143;
     }
-.trusted-companies{
-    flex-grow: 1;
-}
     .recommended{
         padding: 10px;
     }
